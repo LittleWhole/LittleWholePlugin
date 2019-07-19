@@ -1,0 +1,11 @@
+name: LittleWholePlugin
+version: ${project.version}
+main: com.littlewhole.littlewholeplugin.LittleWholePlugin
+api-version: 1.13
+commands:
+  fly:
+    description: Toggles flight.
+    usage: /fly
+  item:
+    description: Gives the player the specified item and amount.
+    usage: /item <name> <count>

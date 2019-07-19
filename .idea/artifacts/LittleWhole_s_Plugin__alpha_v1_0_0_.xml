@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LittleWhole's Plugin (alpha v1.0.0)">
+    <output-path>$PROJECT_DIR$/out/artifacts/LittleWhole_s_Plugin__alpha_v1_0_0_</output-path>
+    <root id="archive" name="LittleWhole's Plugin (alpha v1.0.0).jar">
+      <element id="module-output" name="LittleWholePlugin" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
